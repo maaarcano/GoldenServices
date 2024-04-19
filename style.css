@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700&family=Open+Sans:wght@300;400;700&family=Playfair+Display&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700&family=Open+Sans:wght@300;400;700&family=Playfair+Display&family=Roboto+Slabfamily=Ubuntu:wght@300');
+@import url('https://fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&family=Roboto:wght@400;500;700;900&display=swap');
+body {
+    font-family: "Montserrat";
+}
+
+.header-container {
+    margin: 0 auto;
+    width: 955px;
+    padding: 0px 15px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 113px;
+}
+.header-link {
+    list-style-type: none;
+    text-decoration-line: none;
+    color: rgb(255, 0, 0);
+    font-size: 14px;
+    font-weight: 400;
+}
+.header-menu {
+    display:flex;
+    list-style-type: none;
+    justify-content: space-between;
+    width: 485px;
+}
+.header-logo {
+    font-family: 'Bilbo Swash Caps', cursive;
+    font-size: 36px;
+    color:rgb(255, 0, 0);   
+}
+.services-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 119px;
+}
+.services-title {
+    margin-bottom: 88px;
+    display: flex;
+    justify-content: Center;
+}
+.services-card {
+    width: 300px;
+    margin-right: 56px;
+}
+.card-image {
+    margin-left: 88px;
+    text-align: center;
+}
+.card-text { 
+    font-family: "Ubuntu";
+    font-size: 14px;
+    text-align: center;
+    color: #777777
+}
+.card-title {
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+}
+.form {
+    background-color: #222222;
+    width: 100%;
+    height: 679px;
+}
+.form-title {
+    color: white;
+    text-align: center;
+    padding-top: 94px;
+}
+.container {
+    margin: 0 auto;
+    width: 400px;
+    padding: 0px 15px
+}
+.form-button {
+    color: white;
+    background-color: yellow;
+    width: 242px;
+    height: 68px;
+    border-radius: 7px;
+    text-transform: uppercase;
+    border: 0;
+}
+.form-input {
+    width: 455px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+ {
+
+}
